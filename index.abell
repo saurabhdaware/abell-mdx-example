@@ -1,0 +1,8 @@
+{{
+  import Docs from './Docs.mdx';
+}}
+<html>
+<body>
+  {{ Docs }}
+</body>
+</html>

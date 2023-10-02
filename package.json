@@ -1,0 +1,13 @@
+{
+  "name": "abell-mdx-example",
+  "type": "module",
+  "scripts": {
+    "dev": "abell dev",
+    "generate": "abell generate"
+  },
+  "dependencies": {
+    "abell": "^1.0.0-beta.1",
+    "vite-plugin-jsx-to-html": "^0.0.2",
+    "@mdx-js/rollup": "^2.3.0"
+  }
+}
